@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "708661535228",
+    "project_id": "ai-resume-788c9",
+    "storage_bucket": "ai-resume-788c9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708661535228:android:429a8c37bac08fab229279",
+        "android_client_info": {
+          "package_name": "com.example.ai_resume"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRth3gpFWzfbSvkSnHTphQBwtcKYxjkQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
